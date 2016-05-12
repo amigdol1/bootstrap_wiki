@@ -1,6 +1,19 @@
-.container {
+.introbox {
   border: 1px solid #ddd;
   background: #f9f9f9;
   margin: 1.2em 0 6px 0;
   padding: 10px;
+}
+
+.row-fluid .span8 .span12 {
+  border: 1px solid grey;
+  background: #f5fffa;
+  padding-left: 8px
+  ;
+}
+
+.row-fluid .span8  {
+  border: 1px solid #cef2e0;
+  background: #f5fffa;
+  padding: 5px;
 }
